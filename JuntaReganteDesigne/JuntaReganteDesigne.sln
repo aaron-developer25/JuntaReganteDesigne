@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwiftPay", "SwiftPay\SwiftPay\SwiftPay.csproj", "{69F2B59D-1B4A-4A41-88CD-26D07440669A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwiftPay.Client", "SwiftPay\SwiftPay.Client\SwiftPay.Client.csproj", "{DA7F95BF-4F28-4D49-BABD-DB1BA10492C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{69F2B59D-1B4A-4A41-88CD-26D07440669A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F2B59D-1B4A-4A41-88CD-26D07440669A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F2B59D-1B4A-4A41-88CD-26D07440669A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F2B59D-1B4A-4A41-88CD-26D07440669A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7F95BF-4F28-4D49-BABD-DB1BA10492C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7F95BF-4F28-4D49-BABD-DB1BA10492C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7F95BF-4F28-4D49-BABD-DB1BA10492C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7F95BF-4F28-4D49-BABD-DB1BA10492C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23704747-D86B-47EE-9297-1166AB10DE64}
+	EndGlobalSection
+EndGlobal
